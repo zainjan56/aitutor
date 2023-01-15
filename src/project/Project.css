@@ -1,0 +1,23 @@
+#title {
+    
+    font-size: large;
+}
+
+#img1 {
+    width: 35px;
+    height: 35px;
+    margin-top: -5px;
+}
+
+#navbtn {
+    color: lightblue;
+}
+
+.small {
+   width: 10px;
+   height: 500px;
+}
+
+.btn2 {
+    width: 200px;
+}

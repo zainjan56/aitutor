@@ -1,0 +1,110 @@
+.container {
+    border: 1px solid black;
+}
+
+#courseTitle {
+    font-size: 15px;
+}
+
+.row-cols-1 {
+    float: right;
+}
+
+.expand {
+    width: 280px;
+    margin-left: -12px;
+}
+
+.gap-4 {
+    margin-left: 1px;
+    margin-top: -25px;
+}
+
+.heading {
+    font-size: 16px;
+    /* font-weight: bold; */
+    margin-left: -15px;
+}
+
+.percent {
+    float: right;
+    margin-top: -38px;
+}
+
+.topic {
+    color: coral;
+}
+
+.headingTwo {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn {
+    border: 1px solid black;
+}
+
+.toolTip {
+    cursor: pointer;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.toolTip:hover {
+    background-color: rgb(246, 246, 246);
+}
+
+.cardArea {
+    width: 280px;
+    height: 125px;
+    border-radius: 10px;
+    background-color: rgb(255, 154, 162);
+}
+
+.cardImg {
+    width: 130px;
+    height: 80px;
+    margin-top: 15px;
+}
+
+.courseName1 {
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 110px;
+    margin-top: -40px;
+    color: white;
+}
+
+.card {
+    width: 280px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgb(0 0 0 / 0.2);
+}
+
+#areaTwo {
+    background-color: rgb(255, 183, 178);
+}
+
+#areaThree {
+    background-color: rgb(255, 118, 193);
+}
+
+#areaFour {
+    background-color: rgb(226, 240, 203);
+}
+
+#areaFive {
+    background-color: rgb(181, 234, 215);
+}
+
+#areaSix {
+    background-color: rgb(199, 206, 234);
+}
+
+#imageThree {
+    width: 100px;
+    height: 80px;
+    margin-left: 10px;
+}

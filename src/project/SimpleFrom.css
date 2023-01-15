@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(220, 223, 225);
+}
+.OuterDiv {
+    text-align: center;
+    width: 1050px;
+    background-color: rgb(220, 223, 225);
+}
+
+.title {
+    background-color: rgb(110,72,170);
+    width: 800px;
+    margin-left: 110px;
+    border-radius: 10px;
+}
+
+.col-sm-3 {
+    width: 335px;
+    height: 550px;
+    float: left;
+    margin-top: -15px;
+    background-color: rgb(220, 223, 225);
+}
+
+.IconOne {
+    width: 70px;
+    float: right;
+    margin-top: 420px;
+}
+
+.IconTwo {
+    width: 70px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 420px;
+}
+
+#chatbot {
+    width: 400px;
+}

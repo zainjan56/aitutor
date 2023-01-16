@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+.title {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container {
+    margin-top: 5px;
+    width: 320px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
+
+#reset {
+    margin-top: -5px;
+}
